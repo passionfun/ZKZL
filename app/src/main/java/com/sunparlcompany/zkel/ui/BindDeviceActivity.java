@@ -426,7 +426,6 @@ public class BindDeviceActivity extends AppCompatActivity implements View.OnClic
         switch (v.getId()){
             case R.id.tv_next:
                 startActivity(new Intent(BindDeviceActivity.this,AddDeviceActivity.class));
-//                startActivity(new Intent(BindDeviceActivity.this,UnBindDeviceListActivity.class));
                 break;
                 default:break;
         }

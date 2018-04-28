@@ -56,7 +56,6 @@ import io.fogcloud.fog_mdns.helper.SearchDeviceCallBack;
 
 public class AddDeviceActivity extends AppCompatActivity implements View.OnClickListener{
     private static final String tag = AddDeviceActivity.class.getSimpleName();
-
     private TextView tv_wifi;
     private TextView tv_netTip;
     private TextView tv_title;
@@ -173,7 +172,6 @@ public class AddDeviceActivity extends AppCompatActivity implements View.OnClick
             e.printStackTrace();
         }
     }
-
 
     private MyHandler mHandler = new MyHandler(this);
     private class MyHandler extends Handler {
