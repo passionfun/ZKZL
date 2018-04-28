@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">智能养花机</string>
+    <string name="tv_titleText">设备列表</string>
+    <string name="btn_bindDeviceText">绑定设备</string>
+    <string name="tv_showDeviceInfo">设备详细信息</string>
+    <string name="btn_controlDeviceText">亮度调节</string>
+    <string name="tv_selectDevice">选取设备…</string>
+    <string name="btn_startConfig">开始配置</string>
+    <string name="tv_bindDeviceTitle">绑定设备的列表</string>
+    <string name="tv_titleAddDevice">设备</string>
+    <string name="tv_wirelessName">WiFi名称(不支持5G Wi-Fi)</string>
+    <!--WiFi名称为当前手机所连WiFi的名称\n可前往设置-无线局域网查看-->
+    <!--<![CDATA[WiFi名称为当前手机所连WiFi的名称\n可前往<font color=\'#4c4c4c\'><u>设置-无线局域网</u></font>查看]]>-->
+    <string name="tv_configTips"><![CDATA[WiFi名称为当前手机所连WiFi的名称<br>可前往<font color=\'#FDB46D\'>设置-无线局域网</font>查看]]></string>
+    <string name="tv_wirelessPwd">WiFi密码</string>
+    <string name="tv_wirelessNameHint">请输入无线名称</string>
+    <string name="tv_wirelessPwdHint">请输入WiFi密码</string>
+    <string name="tv_rightText">添加设备</string>
+    <string name="btn_confirmDelete">删除</string>
+    <string name="btn_cancelDelete">取消</string>
+    <string name="tv_showDeleteTip">确定删除该设备？</string>
+    <string name="tv_tips">提示</string>
+
+    <string name="tv_bright">亮</string>
+    <string name="tv_dark">暗</string>
+    <string name="tv_brightValue">当前亮度值：50</string>
+
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">点击加载更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+</resources>

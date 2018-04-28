@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 当按下时 -->
+
+    <!-- 当按下时 -->
+
+    <item android:state_pressed="true" android:drawable="@drawable/btn_bule_sel_shape" />
+    <item android:state_focused="true" android:drawable="@drawable/btn_bule_sel_shape" />
+    <item android:state_selected="true" android:drawable="@drawable/btn_bule_sel_shape" />
+    <item android:state_focused="false" android:drawable="@drawable/btn_bule_shape" />
+</selector>
